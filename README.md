@@ -1,6 +1,6 @@
-#Hi I'm Dhairya Adroja
-
 # 💫 About Me:
+Hi I'm Dhairya Adroja.
+
 I'm learning about embedded systems right now and want to contribute to open source.<br>I like computational coding and I'm good at backend.<br>I'm trying to figure out what i like and I don.
 
 
